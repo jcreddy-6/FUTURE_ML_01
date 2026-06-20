@@ -92,7 +92,7 @@ code sales_forecasting.ipynb
 ---
 
 ## 👤 Author
-**J Chandra Reddy**
+**Jhansi Chandra Reddy**
 - GitHub: [@jcreddy-6](https://github.com/jcreddy-6)
 - LinkedIn: [jhansi-chandra-reddy](https://www.linkedin.com/in/jhansi-chandra-reddy-a14b15382)
 - Internship: Future Interns — Machine Learning Track
